@@ -1,12 +1,9 @@
 # Machine Learning in Swift - Create ML Practice
 2018 iPlayground - iOS / macOS / tvOS / ~~watchOS~~ Conference in Taiwan
 
----
 # Slide
 [CreateML.pdf](https://github.com/Appletone/iPlayground-CreateML/blob/master/CreateML.pdf)
 
-
----
 # Demo
 
 * Image Classification
@@ -34,6 +31,10 @@
 |03-MRT_201807_p2.csv.zip | Dataset |
 |03-MRTTrafficDemo/ | Demo App |
 
+# Screenshots
+![](https://raw.githubusercontent.com/Appletone/iPlayground-CreateML/master/Screenshot/01-Demo.png)
+![](https://raw.githubusercontent.com/Appletone/iPlayground-CreateML/master/Screenshot/02-Demo.png)
+![](https://raw.githubusercontent.com/Appletone/iPlayground-CreateML/master/Screenshot/03-Demo.png)
 
 
 
